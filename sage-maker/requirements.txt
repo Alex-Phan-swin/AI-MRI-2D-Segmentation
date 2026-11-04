@@ -1,0 +1,13 @@
+# transformers
+# h5py
+# numpy
+# scikit-learn
+# tqdm
+# matplotlib
+
+
+h5py
+numpy
+tqdm
+matplotlib
+scikit-learn

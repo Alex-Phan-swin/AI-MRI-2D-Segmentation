@@ -1,0 +1,25 @@
+re.DS_Store
+._*
+__pycache__/
+*.py[cod]
+
+# Local Python environments
+.venv/
+.venv-tf210/
+.venv-model/
+
+# Generated application output
+outputs/
+
+# Large local datasets (document download/setup steps in the README)
+dataset/
+# BraTS2020 dataset
+sprint4/benchmark/model_100_epoch/
+sprint4/benchmark/model_150_epoch/
+# BraTS metadata
+sprint4/benchmark/BraTS20 Training Metadata.csv
+Semantic_Models/BraTS2020_training_data/
+sprint4/.venv/
+benchmark/Brats2020_training_data.zip
+benchmark/content/
+local-training/model/

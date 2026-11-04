@@ -1,0 +1,33 @@
+{
+    "dice": 0.720608115196228,
+    "binary_dice": 0.724571704864502,
+    "validation_accuracy": 0.9980849623680115,
+    "test_metrics": {
+        "loss": 0.3999512493610382,
+        "binary_accuracy": 0.9985417127609253,
+        "precision": 0.728226363658905,
+        "recall": 0.8447650074958801,
+        "dice_coef": 0.720608115196228,
+        "binary_dice_coef": 0.724571704864502,
+        "dice_nec": 0.5044674277305603,
+        "dice_ed": 0.7131089568138123,
+        "dice_et": 0.7049914598464966,
+        "binary_dice_nec": 0.5044888257980347,
+        "binary_dice_ed": 0.7171967625617981,
+        "binary_dice_et": 0.7068339586257935
+    },
+    "best_epoch": 70,
+    "best_validation_dice": 0.6792297959327698,
+    "patient_split": "patient_split.json",
+    "patient_counts": {
+        "train": 295,
+        "validation": 37,
+        "test": 37
+    },
+    "sample_counts": {
+        "train": 5597,
+        "validation": 696,
+        "test": 707
+    },
+    "patient_leakage": false
+}
