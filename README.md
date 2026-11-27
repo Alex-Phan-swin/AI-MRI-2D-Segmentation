@@ -2,6 +2,11 @@
 
 This project trains a 2D brain tumor segmentation model from multi-modal MRI slice data using a U-Net style architecture. The implementation is designed for BraTS-style HDF5 samples where each slice contains a 4-channel MRI image and a segmentation mask. The pipeline includes preprocessing, augmentation, patient-level splitting, and model evaluation.
 
+## Demo
+
+https://github.com/user-attachments/assets/38834996-c761-4fbf-a894-bf5b958b3c19
+
+
 ## Overview
 
 The repository contains two main training workflows:
